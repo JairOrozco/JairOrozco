@@ -1,6 +1,6 @@
-Hi I´m **Jair**, graduate graphic designer who is turning to software engineering building solid knowledge in both frontend and backend development.
-**I have the theoretical and technical knowledge to be able to face the projects that are presented.**
-I am a committed, self-taught and persevering person who seeks to continue growing in this industry.
+Soy **Frontend Developer con 1 año de experiencia** desarrollando varios proyectos personales en donde plasmo mis conocimientos sobre desarrollo de software. Busco colaborar en una posición como **Desarrollador Web** ya que mis conocimientos en **HTML, CSS, JavaScript y React.js** son lo suficientemente sólidos para el puesto.
+
+Actualmente sigo aprendiendo diversas tecnologías para poder ser un desarrollar más completo. Dentro de los nuevos conocimientos se encuentran **bases de datos no relacionales, testing en JavaScript y React.js, Typescript y arquitectura de software**.
 
 ### Technologies
 
